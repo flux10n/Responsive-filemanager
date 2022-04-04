@@ -1,14 +1,1 @@
-What is a Responsive Filemanager?
-Explanation:
-
-
-
-
-Exploit RFM atau Responsive Filemanager dan Dorking: 
-
-•
-•
-•
-•
-•
-
+Responsive FileManager 9.13.4 - Multiple Vulnerabilities
