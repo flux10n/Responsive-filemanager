@@ -2,6 +2,3 @@
 
 
 
-ok 
-- okakakakak
-- wkwkwkwkwkwkwkwkkwkw
